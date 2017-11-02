@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE countries SYSTEM "Q3.dtd">
 
 <countries>
   <country name="Afghanistan" population="22664136" area="647500">
